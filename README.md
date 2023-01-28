@@ -1,5 +1,5 @@
 # quantum-flakiness
-| Left-aligned | Center-aligned | Right-aligned |
+| Project | Repository | Backreport-Link |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
