@@ -5,7 +5,7 @@
 | Qiskit  | Qiskit-Terra | [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023) \.  [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) |   | Assertion | Loose the thresholds of an assertion |
 | Qiskit  | Qiskit-Terra | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659) |           | Assertion | Loose thresholds of equal test |
 | Qiskit  | Qiskit-Terra | [#8808](https://github.com/Qiskit/qiskit-terra/pull/8808) \. [#8806](https://github.com/Qiskit/qiskit-terra/issues/8806) | [#8815](https://github.com/Qiskit/qiskit-terra/pull/8815) | Random Number Seed, Assertion | Fixed random seed, and more |
-| Qiskit  | Qiskit-Terra | [#8233](https://github.com/Qiskit/qiskit-terra/issues/8233) | [#8260](https://github.com/Qiskit/qiskit-terra/pull/8260) \. [#8262](https://github.com/Qiskit/qiskit-terra/pull/8262) | Random Number Seed | Fixed random seed |
+| Qiskit  | Qiskit-Terra | [#8233](https://github.com/Qiskit/qiskit-terra/issues/8233) | [#8260](https://github.com/Qiskit/qiskit-terra/pull/8260) \\ [#8262](https://github.com/Qiskit/qiskit-terra/pull/8262) | Random Number Seed | Fixed random seed |
 | Qiskit  | Qiskit-Terra | [#6930](https://github.com/Qiskit/qiskit-terra/pull/6930) |           |       Visualization      | Add wrappers to detect incomplete file formats  |
 | Qiskit  | Qiskit-Terra | [#5217](https://github.com/Qiskit/qiskit-terra/issues/5217) | [#5599](https://github.com/Qiskit/qiskit-terra/pull/5599) | Random Number Seed  | Fixed random seed |
 | Qiskit  | Qiskit-Terra | [#5031](https://github.com/Qiskit/qiskit-terra/issues/5031) | [#5047](https://github.com/Qiskit/qiskit-terra/pull/5047) | Others | Remove hypothesis deadline  |
