@@ -14,8 +14,7 @@
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/1225 | https://github.com/Qiskit/qiskit-terra/pull/1226 | Unhandled exception: network/server connection (to https://qvisualization.mybluemix.net/) | Add exception handler |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/7304 |           |   Random seed | Fixed random number seed |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/8848 |           |   Random seed | Fixed random seed |
-| Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/8709 | <ul><li>https://github.com/Qiskit/qiskit-terra/pull/9006
-</li><li>https://github.com/Qiskit/qiskit-terra/pull/8627</li></ul>  | Python: non-deterministic order of qubits; Python's implementation of dictionary is in an uncontrolled collection | Compare key-by-key instead of the insertion order |
+| Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/8709 | <ul><li>https://github.com/Qiskit/qiskit-terra/pull/9006</li><li>https://github.com/Qiskit/qiskit-terra/pull/8627</li></ul>  | Python: non-deterministic order of qubits; Python's implementation of dictionary is in an uncontrolled collection | Compare key-by-key instead of the insertion order |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/8577 | https://github.com/Qiskit/qiskit-terra/pull/8582 | Assert | Remove time senstive assert |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/6188 | https://github.com/Qiskit/qiskit-terra/pull/7682 | Multi-threading-multiprocessing (fork() function) | Bumping the minimum symengine version |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/5904 | https://github.com/Qiskit/qiskit-terra/pull/6539 | Multi-threading-parallel builds | Disables the use of parallel sphinx |
