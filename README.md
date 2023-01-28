@@ -22,6 +22,19 @@
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5509 |           | Environmental issue, i.e., consistency issue (backwards compatibility) | Change the deprecation shim in qiskit.util |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5465 |           | Environmental issue (software/library versions) | "Expands the macOS skip on the tests to be python >= 3.8" |
 
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-aer/issues/1466 |           |  Environmental issue (qiskit-terra)  |  |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-aer/pull/795 |           |  Assert (changed tolerance to dynamic)  |  |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-nature/issues/849 | https://github.com/Qiskit/qiskit-nature/pull/856 | Random seed | Fix random seed |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-nature/issues/715 | https://github.com/Qiskit/qiskit-nature/pull/716 | Assert: exact equal may lead to flaky test | Add approximate equal |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-experiments/pull/780 |           | Multi-threading parallel execution | Set the number of threads to 1 |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-ibm-runtime/issues/584 | https://github.com/Qiskit/qiskit-ibm-runtime/pull/588 | Network/server issue (sometime network too slow) | Wait until websocket finished connection |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-ibm-runtime/pull/79 |           | Others: program is not unique | Set unique program id |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-ibm-provider/issues/112 | https://github.com/Qiskit/qiskit-ibm-provider/pull/113 | Others: test fall in wrong category | Filter test |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-ibm-provider/issues/293 | https://github.com/Qiskit/qiskit-ibmq-provider/pull/587 | Unknown | |
+| Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-machine-learning/issues/185 | Closed, but no PR associated | Unknown | Set the number of threads to 1 |
+
+
+
 
 
 
