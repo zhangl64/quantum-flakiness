@@ -1,5 +1,5 @@
 # quantum-flakiness
-| Project |  Repository |               Backreport-Link                   |  Fix-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
+| Project |  Repository |               Bug-Report-Link                   |  Fix-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 | :---    |    :---     |                       ---:                      |  ---:    |         :---              |              :---                 |
 | Qiskit  | Qiskit-Terra |  |   [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820)        | Random Number Seed, Assertion    | Fix random seed to a fixed value  |
 | Qiskit  | Qiskit-Terra | [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)<br> [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) |   | Assertion | Loose the thresholds of an assertion |
