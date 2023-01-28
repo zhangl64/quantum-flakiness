@@ -13,7 +13,7 @@
 | Qiskit  | Qiskit-Terra | [#1225](https://github.com/Qiskit/qiskit-terra/issues/1225) | [#1226](https://github.com/Qiskit/qiskit-terra/pull/1226) | Unhandled exception | Add exception handler |
 | Qiskit  | Qiskit-Terra | [#7304](https://github.com/Qiskit/qiskit-terra/pull/7304) |           |   Random Number Seed | Fixed random number seed |
 | Qiskit  | Qiskit-Terra | [#8848](https://github.com/Qiskit/qiskit-terra/pull/8848) |           |   Random Number Seed | Fixed random seed |
-| Qiskit  | Qiskit-Terra | [#8709](https://github.com/Qiskit/qiskit-terra/issues/8709) | [#9006](https://github.com/Qiskit/qiskit-terra/pull/9006) \. [#8627](https://github.com/Qiskit/qiskit-terra/pull/8627) | Unordered Collection | Compare key-by-key instead of the insertion order |
+| Qiskit  | Qiskit-Terra | [#8709](https://github.com/Qiskit/qiskit-terra/issues/8709) | <p>[#9006](https://github.com/Qiskit/qiskit-terra/pull/9006)</p>  [#8627](https://github.com/Qiskit/qiskit-terra/pull/8627) | Unordered Collection | Compare key-by-key instead of the insertion order |
 | Qiskit  | Qiskit-Terra | [#8577](https://github.com/Qiskit/qiskit-terra/issues/8577) | [#8582](https://github.com/Qiskit/qiskit-terra/pull/8582) | Assertion | Remove time senstive assert |
 | Qiskit  | Qiskit-Terra | [#6188](https://github.com/Qiskit/qiskit-terra/issues/6188) | [#7682](https://github.com/Qiskit/qiskit-terra/pull/7682) | Multi-Threading | Bumping the minimum symengine version |
 | Qiskit  | Qiskit-Terra | [#5904](https://github.com/Qiskit/qiskit-terra/issues/5904) | [#6539](https://github.com/Qiskit/qiskit-terra/pull/6539) | Multi-Threading | Disables the use of parallel sphinx |
