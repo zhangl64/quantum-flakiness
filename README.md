@@ -1,6 +1,6 @@
 # quantum-flakiness
 | Project |  Repository  |               Backreport-Link                    |  Fix-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
-| :---:    |    :---:     |                       :---:                      |  :---:    |       :---:              |              :---:                |
+| :---:    |    :---:     |                       :---                      |  :---:    |       :---:              |              :---:                |
 | Qiskit  | Qiskit-Terra | [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820) |           |   Random Number Seed, Assertion    | Fix random seed to a fixed value  |
 | Qiskit  | Qiskit-Terra | <ul><li>[#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)</li><li>[#9021](https://github.com/Qiskit/qiskit-terra/pull/9021)</li></ul> |   | Assertion | Loose the thresholds of an assertion |
 | Qiskit  | Qiskit-Terra | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659) |           | Assertion | Loose thresholds of equal test |
