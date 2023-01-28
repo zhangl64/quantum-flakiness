@@ -21,7 +21,6 @@
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/5771 | https://github.com/Qiskit/qiskit-terra/pull/5778 | Others: incorrect durations in scheduled circuit | Ensuring all instruction objects in scheduled circuit are different |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5509 |           | Environmental issue, i.e., consistency issue (backwards compatibility) | Change the deprecation shim in qiskit.util |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5465 |           | Environmental issue (software/library versions) | "Expands the macOS skip on the tests to be python >= 3.8" |
-
 | Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-aer/issues/1466 |           |  Environmental issue (qiskit-terra)  |  |
 | Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-aer/pull/795 |           |  Assert (changed tolerance to dynamic)  |  |
 | Qiskit  | Qiskit-Aer | https://github.com/Qiskit/qiskit-nature/issues/849 | https://github.com/Qiskit/qiskit-nature/pull/856 | Random seed | Fix random seed |
