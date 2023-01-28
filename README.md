@@ -20,8 +20,7 @@
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/5904 | https://github.com/Qiskit/qiskit-terra/pull/6539 | Multi-threading-parallel builds | Disables the use of parallel sphinx |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/issues/5771 | https://github.com/Qiskit/qiskit-terra/pull/5778 | Others: incorrect durations in scheduled circuit | Ensuring all instruction objects in scheduled circuit are different |
 | Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5509 |           | Environmental issue, i.e., consistency issue (backwards compatibility) | Change the deprecation shim in qiskit.util |
-| Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5465 |           | Environmental issue (software/library versions) | "Expands the
-macOS skip on the tests to be python >= 3.8" |
+| Qiskit  | Qiskit-Terra | https://github.com/Qiskit/qiskit-terra/pull/5465 |           | Environmental issue (software/library versions) | "Expands the macOS skip on the tests to be python >= 3.8" |
 
 
 
