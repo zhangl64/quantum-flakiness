@@ -4,8 +4,8 @@
 | Qiskit  | Qiskit-Terra | [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820) |           |   Random Number Seed, Assertion    | Fix random seed to a fixed value  |
 | Qiskit  | Qiskit-Terra | [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)<br> [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) |   | Assertion | Loose the thresholds of an assertion |
 | Qiskit  | Qiskit-Terra | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659) |           | Assertion | Loose thresholds of equal test |
-| Qiskit  | Qiskit-Terra | <p>[#8808](https://github.com/Qiskit/qiskit-terra/pull/8808)</p>  [#8806](https://github.com/Qiskit/qiskit-terra/issues/8806) | [#8815](https://github.com/Qiskit/qiskit-terra/pull/8815) | Random Number Seed, Assertion | Fixed random seed, and more |
-| Qiskit  | Qiskit-Terra | [#8233](https://github.com/Qiskit/qiskit-terra/issues/8233) | <p>[#8260](https://github.com/Qiskit/qiskit-terra/pull/8260)</p> [#8262](https://github.com/Qiskit/qiskit-terra/pull/8262) | Random Number Seed | Fixed random seed |
+| Qiskit  | Qiskit-Terra | [#8808](https://github.com/Qiskit/qiskit-terra/pull/8808)<br> [#8806](https://github.com/Qiskit/qiskit-terra/issues/8806) | [#8815](https://github.com/Qiskit/qiskit-terra/pull/8815) | Random Number Seed, Assertion | Fixed random seed, and more |
+| Qiskit  | Qiskit-Terra | [#8233](https://github.com/Qiskit/qiskit-terra/issues/8233) | [#8260](https://github.com/Qiskit/qiskit-terra/pull/8260)<br> [#8262](https://github.com/Qiskit/qiskit-terra/pull/8262) | Random Number Seed | Fixed random seed |
 | Qiskit  | Qiskit-Terra | [#6930](https://github.com/Qiskit/qiskit-terra/pull/6930) |           |       Visualization      | Add wrappers to detect incomplete file formats  |
 | Qiskit  | Qiskit-Terra | [#5217](https://github.com/Qiskit/qiskit-terra/issues/5217) | [#5599](https://github.com/Qiskit/qiskit-terra/pull/5599) | Random Number Seed  | Fixed random seed |
 | Qiskit  | Qiskit-Terra | [#5031](https://github.com/Qiskit/qiskit-terra/issues/5031) | [#5047](https://github.com/Qiskit/qiskit-terra/pull/5047) | Others | Remove hypothesis deadline  |
@@ -13,7 +13,7 @@
 | Qiskit  | Qiskit-Terra | [#1225](https://github.com/Qiskit/qiskit-terra/issues/1225) | [#1226](https://github.com/Qiskit/qiskit-terra/pull/1226) | Unhandled exception | Add exception handler |
 | Qiskit  | Qiskit-Terra | [#7304](https://github.com/Qiskit/qiskit-terra/pull/7304) |           |   Random Number Seed | Fixed random number seed |
 | Qiskit  | Qiskit-Terra | [#8848](https://github.com/Qiskit/qiskit-terra/pull/8848) |           |   Random Number Seed | Fixed random seed |
-| Qiskit  | Qiskit-Terra | [#8709](https://github.com/Qiskit/qiskit-terra/issues/8709) | <p>[#9006](https://github.com/Qiskit/qiskit-terra/pull/9006)</p>  [#8627](https://github.com/Qiskit/qiskit-terra/pull/8627) | Unordered Collection | Compare key-by-key instead of the insertion order |
+| Qiskit  | Qiskit-Terra | [#8709](https://github.com/Qiskit/qiskit-terra/issues/8709) | [#9006](https://github.com/Qiskit/qiskit-terra/pull/9006)<br> [#8627](https://github.com/Qiskit/qiskit-terra/pull/8627) | Unordered Collection | Compare key-by-key instead of the insertion order |
 | Qiskit  | Qiskit-Terra | [#8577](https://github.com/Qiskit/qiskit-terra/issues/8577) | [#8582](https://github.com/Qiskit/qiskit-terra/pull/8582) | Assertion | Remove time senstive assert |
 | Qiskit  | Qiskit-Terra | [#6188](https://github.com/Qiskit/qiskit-terra/issues/6188) | [#7682](https://github.com/Qiskit/qiskit-terra/pull/7682) | Multi-Threading | Bumping the minimum symengine version |
 | Qiskit  | Qiskit-Terra | [#5904](https://github.com/Qiskit/qiskit-terra/issues/5904) | [#6539](https://github.com/Qiskit/qiskit-terra/pull/6539) | Multi-Threading | Disables the use of parallel sphinx |
