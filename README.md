@@ -26,19 +26,19 @@
 | Qiskit-Aer | [#715](https://github.com/Qiskit/qiskit-nature/issues/715) | [#716](https://github.com/Qiskit/qiskit-nature/pull/716) | Assertion | Add approximate equal |
 | Qiskit-Experiments | [#780](https://github.com/Qiskit/qiskit-experiments/pull/780) |        | Multi-Threading | Set the number of threads to 1 |
 | Qiskit-Qiskit-ibm-runtime | [#584](https://github.com/Qiskit/qiskit-ibm-runtime/issues/584) | [#588](https://github.com/Qiskit/qiskit-ibm-runtime/pull/588) | Network | Wait until websocket finished connection |
-| Qiskit-Qiskit-ibm-runtime | [#79](https://github.com/Qiskit/qiskit-ibm-runtime/pull/79) |           | Others | Set unique program id |
-| Qiskit-qiskit-ibm-provider | [#112](https://github.com/Qiskit/qiskit-ibm-provider/issues/112) | [#113](https://github.com/Qiskit/qiskit-ibm-provider/pull/113) | Others | Filter test |
-|Qiskit-ibm-provider | [#293](https://github.com/Qiskit/qiskit-ibm-provider/issues/293) | [#587](https://github.com/Qiskit/qiskit-ibmq-provider/pull/587) | Unknown | |
+| Qiskit-ibm-runtime | [#79](https://github.com/Qiskit/qiskit-ibm-runtime/pull/79) |           | Others | Set unique program id |
+| Qiskit-ibm-provider | [#112](https://github.com/Qiskit/qiskit-ibm-provider/issues/112) | [#113](https://github.com/Qiskit/qiskit-ibm-provider/pull/113) | Others | Filter test |
+| Qiskit-ibm-provider | [#293](https://github.com/Qiskit/qiskit-ibm-provider/issues/293) | [#587](https://github.com/Qiskit/qiskit-ibmq-provider/pull/587) | Unknown | |
 | Qiskit-machine-learning | [#185](https://github.com/Qiskit/qiskit-machine-learning/issues/185) | Closed, but no PR associated | Unknown | Set the number of threads to 1 |
-| Microsoft  | qdk-python | [#319](https://github.com/microsoft/qdk-python/issues/319) | No fix, automated testing | Software Environment | Live test in CI |
-| Microsoft  | QuantumLibraries | [#398](https://github.com/microsoft/QuantumLibraries/issues/398) | [#399](https://github.com/microsoft/QuantumLibraries/pull/399) | Unhandled Exceptions | Ignore negative value |
-| Microsoft  | Quantum | [#62](https://github.com/microsoft/Quantum/issues/62) | [#63](https://github.com/microsoft/Quantum/pull/63) | Others | Delete space |
-| Microsoft  | Quantum | [#47](https://github.com/microsoft/Quantum/pull/47) | | Software Environment | Update the version of Electron |
-| Tensorflow | Quantum | [#453](https://github.com/tensorflow/quantum/pull/453) |           | Others | Fixed output manually |
-| Netket  | Netket | [#1369](https://github.com/netket/netket/pull/1369) |           | Software Environment | Simplified tests |
-| Netket  | Netket | [#1147](https://github.com/netket/netket/pull/1147) |           | Assertion | Bump assert tolerance (replace hard-coded tolerance with the error of mean) |
-| Netket  | Netket | [#724](https://github.com/netket/netket/pull/724) |           | Assertion | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
-| Netket  | Netket | [#840](https://github.com/netket/netket/pull/840) |           | Random Number Seed | Fix random seed |
+| Microsoft/qdk-python | [#319](https://github.com/microsoft/qdk-python/issues/319) | No fix, automated testing | Software Environment | Live test in CI |
+| Microsoft/QuantumLibraries | [#398](https://github.com/microsoft/QuantumLibraries/issues/398) | [#399](https://github.com/microsoft/QuantumLibraries/pull/399) | Unhandled Exceptions | Ignore negative value |
+| Microsoft/Quantum | [#62](https://github.com/microsoft/Quantum/issues/62) | [#63](https://github.com/microsoft/Quantum/pull/63) | Others | Delete space |
+| Microsoft/Quantum | [#47](https://github.com/microsoft/Quantum/pull/47) | | Software Environment | Update the version of Electron |
+| Tensorflow/Quantum | [#453](https://github.com/tensorflow/quantum/pull/453) |           | Others | Fixed output manually |
+| Netket/Netket | [#1369](https://github.com/netket/netket/pull/1369) |           | Software Environment | Simplified tests |
+| Netket/Netket | [#1147](https://github.com/netket/netket/pull/1147) |           | Assertion | Bump assert tolerance (replace hard-coded tolerance with the error of mean) |
+| Netket/Netket | [#724](https://github.com/netket/netket/pull/724) |           | Assertion | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
+| Netket/Netket | [#840](https://github.com/netket/netket/pull/840) |           | Random Number Seed | Fix random seed |
 
 
 
