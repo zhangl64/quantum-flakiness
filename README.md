@@ -2,7 +2,7 @@
 |  Repository |               Bug-Report-Link                   |  Pull-Request-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 |    :---     |                       ---:                      |  ---:    |         :---              |              :---                 |
 | Qiskit-Terra |  |   [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820)        | Random Number Seed, Assertion    | Fix random seed to a fixed value  |
-| Qiskit-Terra | [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)<br> [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) |   | Assertion | Loose the thresholds of an assertion |
+| Qiskit-Terra |  |  [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)<br> [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) | Assertion | Loose the thresholds of an assertion |
 | Qiskit-Terra | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659) |           | Assertion | Loose thresholds of equal test |
 | Qiskit-Terra | [#8808](https://github.com/Qiskit/qiskit-terra/pull/8808)<br> [#8806](https://github.com/Qiskit/qiskit-terra/issues/8806) | [#8815](https://github.com/Qiskit/qiskit-terra/pull/8815) | Random Number Seed, Assertion | Fixed random seed, and more |
 | Qiskit-Terra | [#8233](https://github.com/Qiskit/qiskit-terra/issues/8233) | [#8260](https://github.com/Qiskit/qiskit-terra/pull/8260)<br> [#8262](https://github.com/Qiskit/qiskit-terra/pull/8262) | Random Number Seed | Fixed random seed |
@@ -30,7 +30,7 @@
 | Qiskit-ibm-provider | [#112](https://github.com/Qiskit/qiskit-ibm-provider/issues/112) | [#113](https://github.com/Qiskit/qiskit-ibm-provider/pull/113) | Others | Filter test |
 | Qiskit-ibm-provider | [#293](https://github.com/Qiskit/qiskit-ibm-provider/issues/293) | [#587](https://github.com/Qiskit/qiskit-ibmq-provider/pull/587) | Unknown | |
 | Qiskit-machine-learning | [#185](https://github.com/Qiskit/qiskit-machine-learning/issues/185) | Closed, but no PR associated | Unknown | Set the number of threads to 1 |
-| Microsoft/qdk-python | [#319](https://github.com/microsoft/qdk-python/issues/319) | No fix, automated testing | Software Environment | Live test in CI |
+| Microsoft/qdk-python | [#319](https://github.com/microsoft/qdk-python/issues/319) | Closed, but no PR associated | Software Environment | Live test in CI |
 | Microsoft/QuantumLibraries | [#398](https://github.com/microsoft/QuantumLibraries/issues/398) | [#399](https://github.com/microsoft/QuantumLibraries/pull/399) | Unhandled Exceptions | Ignore negative value |
 | Microsoft/Quantum | [#62](https://github.com/microsoft/Quantum/issues/62) | [#63](https://github.com/microsoft/Quantum/pull/63) | Others | Delete space |
 | Microsoft/Quantum | [#47](https://github.com/microsoft/Quantum/pull/47) | | Software Environment | Update the version of Electron |
@@ -38,7 +38,7 @@
 | Netket/Netket | [#1369](https://github.com/netket/netket/pull/1369) |           | Software Environment | Simplified tests |
 | Netket/Netket | [#1147](https://github.com/netket/netket/pull/1147) |           | Assertion | Bump assert tolerance (replace hard-coded tolerance with the error of mean) |
 | Netket/Netket | [#724](https://github.com/netket/netket/pull/724) |           | Assertion | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
-| Netket/<br>Netket | [#840](https://github.com/netket/netket/pull/840) |           | Random Number Seed | Fix random seed |
+| Netket/Netket | [#840](https://github.com/netket/netket/pull/840) |           | Random Number Seed | Fix random seed |
 
 
 
