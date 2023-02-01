@@ -38,7 +38,7 @@
 | Netket/Netket | [#1369](https://github.com/netket/netket/pull/1369) |           | Software Environment | Simplified tests |
 | Netket/Netket | [#1147](https://github.com/netket/netket/pull/1147) |           | Assertion | Bump assert tolerance (replace hard-coded tolerance with the error of mean) |
 | Netket/Netket | [#724](https://github.com/netket/netket/pull/724) |           | Assertion | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
-| Netket/Netket | [#840](https://github.com/netket/netket/pull/840) |           | Random Number Seed | Fix random seed |
+| Netket/<br>Netket | [#840](https://github.com/netket/netket/pull/840) |           | Random Number Seed | Fix random seed |
 
 
 
