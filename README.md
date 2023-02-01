@@ -25,7 +25,7 @@
 | Qiskit-Nature | [#849](https://github.com/Qiskit/qiskit-nature/issues/849) | [#856](https://github.com/Qiskit/qiskit-nature/pull/856) | Random Number Seed | Fix random seed |
 | Qiskit-Aer | [#715](https://github.com/Qiskit/qiskit-nature/issues/715) | [#716](https://github.com/Qiskit/qiskit-nature/pull/716) | Assertion | Add approximate equal |
 | Qiskit-Experiments | [#780](https://github.com/Qiskit/qiskit-experiments/pull/780) |        | Multi-Threading | Set the number of threads to 1 |
-| Qiskit-Qiskit-ibm-runtime | [#584](https://github.com/Qiskit/qiskit-ibm-runtime/issues/584) | [#588](https://github.com/Qiskit/qiskit-ibm-runtime/pull/588) | Network | Wait until websocket finished connection |
+| Qiskit-ibm-runtime | [#584](https://github.com/Qiskit/qiskit-ibm-runtime/issues/584) | [#588](https://github.com/Qiskit/qiskit-ibm-runtime/pull/588) | Network | Wait until websocket finished connection |
 | Qiskit-ibm-runtime | [#79](https://github.com/Qiskit/qiskit-ibm-runtime/pull/79) |           | Others | Set unique program id |
 | Qiskit-ibm-provider | [#112](https://github.com/Qiskit/qiskit-ibm-provider/issues/112) | [#113](https://github.com/Qiskit/qiskit-ibm-provider/pull/113) | Others | Filter test |
 | Qiskit-ibm-provider | [#293](https://github.com/Qiskit/qiskit-ibm-provider/issues/293) | [#587](https://github.com/Qiskit/qiskit-ibmq-provider/pull/587) | Unknown | |
