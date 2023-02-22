@@ -1,7 +1,7 @@
 # Identifying Flakiness in Quantum Programs
 
 ## Introduction
-In the table below, 12 different repositories are examined, which represent the creation of the flaky test.Moreover, Links showing flaky in quantum projects as well as the root cause of flaky are shown and categories for fixing these different flaky tests are provided. Our goal is to create a view for better understanding and easier access to data, and we will also try to create conditions with more information.
+In the table below, 12 different repositories are examined, which represent the creation of the flaky tests in quantum programs. Moreover, we list links of flaky tests in quantum projects as well as the root causes of flakiness, and we provide the categories for fixing these different flaky tests. Our goal is to create a view for better understanding and easier access to the dataset so that others can reproduce our findings.
 ## quantum-flakiness
 |  Repository |   Bug-Report-Link  |  Pull-Request-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 |    :---     |    ---:            |  ---:              |         :---             |              :---                 |
@@ -44,14 +44,16 @@ In the table below, 12 different repositories are examined, which represent the 
 | Netket/Netket |  | [#724](https://github.com/netket/netket/pull/724) | Assertion | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
 | Netket/Netket | |  [#840](https://github.com/netket/netket/pull/840) | Random Number Seed | Fix random seed |
 
-Cite our paper with the following:
+## Citation
+Please cite our paper as the following:
+```
 @article{zhang2023identifying,
   title={Identifying Flakiness in Quantum Programs},
   author={Zhang, Lei and Radnejad, Mahsa and Miranskyy, Andriy},
   journal={arXiv preprint arXiv:2302.03256},
   year={2023}
 }
-
+```
 
 
 
