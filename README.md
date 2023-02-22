@@ -41,8 +41,13 @@ In the table below, 12 different repositories are examined, which represent the 
 | Netket/Netket |  | [#724](https://github.com/netket/netket/pull/724) | Assertion | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
 | Netket/Netket | |  [#840](https://github.com/netket/netket/pull/840) | Random Number Seed | Fix random seed |
 
-
-
+Cite our paper with the following:
+@article{zhang2023identifying,
+  title={Identifying Flakiness in Quantum Programs},
+  author={Zhang, Lei and Radnejad, Mahsa and Miranskyy, Andriy},
+  journal={arXiv preprint arXiv:2302.03256},
+  year={2023}
+}
 
 
 
