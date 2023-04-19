@@ -5,6 +5,10 @@ In the table below, 12 different repositories are examined, which represent the 
 ## quantum-flakiness
 |  Repository |   Bug-Report-Link  |  Pull-Request-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 |    :---     |    ---:            |  ---:              |         :---             |              :---                 |
+| Qiskit-Terra | [#6105](https://github.com/Qiskit/qiskit-terra/issues/6105) | [#6399](https://github.com/Qiskit/qiskit-terra/pull/6399) | Parallization | Multithreading (multiple threads write into one temp file, which causes the problem; to fix it, separate temp files for different threads) |
+
+
+
 | Qiskit-Terra |  |   [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820)        | Random Number Seed, Randomness    | Fix random seed to a fixed value  |
 | Qiskit-Terra |  |  [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)<br> [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) | Randomness | Loose the thresholds of an assertion |
 | Qiskit-Terra |  | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659)  | Randomness | Loose thresholds of equal test |
