@@ -36,7 +36,7 @@ In the table below, 12 different repositories are examined, which represent the 
 | Qiskit-Aer | [#1466](https://github.com/Qiskit/qiskit-aer/issues/1466) | Closed, but no PR associated | Software Environment |  |
 | Qiskit-Aer |  | [#795](https://github.com/Qiskit/qiskit-aer/pull/795) |  Randomness |  |
 | Qiskit-Nature | [#849](https://github.com/Qiskit/qiskit-nature/issues/849) | [#856](https://github.com/Qiskit/qiskit-nature/pull/856) | Random Number Seed | Fix random seed |
-| Qiskit-Aer | [#715](https://github.com/Qiskit/qiskit-nature/issues/715) | [#716](https://github.com/Qiskit/qiskit-nature/pull/716) | Randomness | Add approximate equal |
+| Qiskit-Nature | [#715](https://github.com/Qiskit/qiskit-nature/issues/715) | [#716](https://github.com/Qiskit/qiskit-nature/pull/716) | Randomness | Add approximate equal |
 | Qiskit-Experiments |  | [#780](https://github.com/Qiskit/qiskit-experiments/pull/780) | Multi-Threading | Set the number of threads to 1 |
 | Qiskit-ibm-runtime | [#584](https://github.com/Qiskit/qiskit-ibm-runtime/issues/584) | [#588](https://github.com/Qiskit/qiskit-ibm-runtime/pull/588) | Network | Wait until websocket finished connection |
 | Qiskit-ibm-runtime |  | [#79](https://github.com/Qiskit/qiskit-ibm-runtime/pull/79) | Others | Set unique program id |
