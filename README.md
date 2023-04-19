@@ -8,7 +8,6 @@ In the table below, 12 different repositories are examined, which represent the 
 | Qiskit-Terra | [#6105](https://github.com/Qiskit/qiskit-terra/issues/6105) | [#6399](https://github.com/Qiskit/qiskit-terra/pull/6399) | Parallization | Multithreading (multiple threads write into one temp file, which causes the problem; to fix it, separate temp files for different threads) |
 | Qiskit-Terra | [#8577](https://github.com/Qiskit/qiskit-terra/issues/8577) | [#8582](https://github.com/Qiskit/qiskit-terra/pull/8582) | Randomness | Remove time_taken assertion from amplitude estimator tests |
 | Qiskit-Terra | [#3434](https://github.com/Qiskit/qiskit-terra/issues/3434) | | Unknown-flakiness caused by unknown reason | closed because it cannot be reproduced |
-
 | Qiskit-Terra |  |   [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820)        | Random Number Seed, Randomness    | Fix random seed to a fixed value  |
 | Qiskit-Terra |  |  [#9023](https://github.com/Qiskit/qiskit-terra/pull/9023)<br> [#9021](https://github.com/Qiskit/qiskit-terra/pull/9021) | Randomness | Loose the thresholds of an assertion |
 | Qiskit-Terra |  | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659)  | Randomness | Loose thresholds of equal test |
