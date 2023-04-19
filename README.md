@@ -5,7 +5,7 @@ In the table below, 12 different repositories are examined, which represent the 
 ## quantum-flakiness
 |  Repository |   Bug-Report-Link  |  Pull-Request-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 |    :---     |    ---:            |  ---:              |         :---             |              :---                 |
-| Qiskit-Terra | [#6105](https://github.com/Qiskit/qiskit-terra/issues/6105) | [#6399](https://github.com/Qiskit/qiskit-terra/pull/6399) | Parallization | Multithreading (multiple threads write into one temp file, which causes the problem; to fix it, separate temp files for different threads) |
+| Qiskit-Terra | [#6105](https://github.com/Qiskit/qiskit-terra/issues/6105) | [#6399](https://github.com/Qiskit/qiskit-terra/pull/6399) | Multi-Threading | Multiple threads write into one temp file, which causes the problem; to fix it, separate temp files for different threads |
 | Qiskit-Terra | [#8577](https://github.com/Qiskit/qiskit-terra/issues/8577) | [#8582](https://github.com/Qiskit/qiskit-terra/pull/8582) | Randomness | Remove time_taken assertion from amplitude estimator tests |
 | Qiskit-Terra | [#3434](https://github.com/Qiskit/qiskit-terra/issues/3434) | | Unknown-flakiness caused by unknown reason | Closed because it cannot be reproduced |
 | Qiskit-Terra | [#3533](https://github.com/Qiskit/qiskit-terra/issues/3533) | [#3585](https://github.com/Qiskit/qiskit-terra/pull/3585) | Randomness (random numbers are generated during two qubits decomposer), resulting in different outputs | Fix Randomness (remove randomness from two_qubit_decompose) |
