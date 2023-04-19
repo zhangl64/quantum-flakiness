@@ -46,6 +46,7 @@ In the table below, 12 different repositories are examined, which represent the 
 | Qiskit-machine-learning | [#185](https://github.com/Qiskit/qiskit-machine-learning/issues/185) | Closed, but no PR associated | Unknown | Set the number of threads to 1 |
 | Microsoft/qdk-python | [#319](https://github.com/microsoft/qdk-python/issues/319) | Closed, but no PR associated | Software Environment | Live test in CI |
 | Microsoft/QuantumLibraries | [#398](https://github.com/microsoft/QuantumLibraries/issues/398) | [#399](https://github.com/microsoft/QuantumLibraries/pull/399) | Unhandled Exceptions | Ignore negative value |
+| Microsoft/QuantumLibraries | [#386](https://github.com/microsoft/QuantumLibraries/issues/386) | [#449](https://github.com/microsoft/QuantumLibraries/pull/449) | Multi-Threading | Fixed by using a concurrent dictionary |
 | Microsoft/Quantum | [#62](https://github.com/microsoft/Quantum/issues/62) | [#63](https://github.com/microsoft/Quantum/pull/63) | Others | Delete space |
 | Microsoft/Quantum |  | [#47](https://github.com/microsoft/Quantum/pull/47) | Software Environment | Update the version of Electron |
 | Tensorflow/Quantum |  | [#453](https://github.com/tensorflow/quantum/pull/453) | Others | Fixed output manually |
