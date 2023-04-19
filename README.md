@@ -34,7 +34,7 @@ In the table below, 12 different repositories are examined, which represent the 
 | Qiskit-Terra |  | [#5509](https://github.com/Qiskit/qiskit-terra/pull/5509) | Software Environment | Change the deprecation shim in qiskit.util |
 | Qiskit-Terra |  | [#5465](https://github.com/Qiskit/qiskit-terra/pull/5465) | Software Environment | "Expands the macOS skip on the tests to be python >= 3.8" |
 | Qiskit-Aer | [#1466](https://github.com/Qiskit/qiskit-aer/issues/1466) | Closed, but no PR associated | Software Environment |  |
-| Qiskit-Aer |  | [#1308](https://github.com/Qiskit/qiskit-aer/issues/1308) | [#1307](https://github.com/Qiskit/qiskit-aer/pull/1307) | Multi-Threading | Generate random numbers before parallization |
+| Qiskit-Aer | [#1308](https://github.com/Qiskit/qiskit-aer/issues/1308) | [#1307](https://github.com/Qiskit/qiskit-aer/pull/1307) | Multi-Threading | Generate random numbers before parallization |
 | Qiskit-Aer |  | [#795](https://github.com/Qiskit/qiskit-aer/pull/795) |  Randomness |  |
 | Qiskit-Nature | [#849](https://github.com/Qiskit/qiskit-nature/issues/849) | [#856](https://github.com/Qiskit/qiskit-nature/pull/856) | Random Number Seed | Fix random seed |
 | Qiskit-Nature | [#715](https://github.com/Qiskit/qiskit-nature/issues/715) | [#716](https://github.com/Qiskit/qiskit-nature/pull/716) | Randomness | Add approximate equal |
