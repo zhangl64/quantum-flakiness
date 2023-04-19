@@ -52,6 +52,7 @@ In the table below, 12 different repositories are examined, which represent the 
 | Tensorflow/Quantum |  | [#453](https://github.com/tensorflow/quantum/pull/453) | Others | Fixed output manually |
 | Netket/Netket |  | [#1369](https://github.com/netket/netket/pull/1369) | Software Environment | Simplified tests |
 | Netket/Netket |  | [#1147](https://github.com/netket/netket/pull/1147) | Randomness | Bump assert tolerance (replace hard-coded tolerance with the error of mean) |
+| Netket/Netket |  | [#1132](https://github.com/netket/netket/pull/1132) | Unhandled Exception | Add exception handler |
 | Netket/Netket |  | [#724](https://github.com/netket/netket/pull/724) | Randomness | Bump assert tolerance (from atol=1e-10 to 1e-8), atol=absolute tolerance |
 | Netket/Netket | |  [#840](https://github.com/netket/netket/pull/840) | Random Number Seed | Fix random seed |
 
