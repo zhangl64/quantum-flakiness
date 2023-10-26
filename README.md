@@ -59,17 +59,14 @@ In the table below, 12 different repositories are examined, which represent the 
 ## How to cite
 Our paper has been accepted by ESEM'23, and you can find the preprint on arXiv.
 
+```
 @article{zhang2023identifying,
-
   title={Identifying Flakiness in Quantum Programs},
-  
   author={Zhang, Lei and Radnejad, Mahsa and Miranskyy, Andriy},
-  
   journal={arXiv preprint arXiv:2302.03256},
-  
   year={2023}
-  
 }
+```
 
 
 
