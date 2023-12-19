@@ -1,7 +1,7 @@
 # Identifying Flakiness in Quantum Programs
 
 ## Introduction
-In the table below, 12 different repositories are examined, which represent the creation of the flaky tests in quantum programs. Moreover, we list links of flaky tests in quantum projects as well as the root causes of flakiness, and we provide the categories for fixing these different flaky tests. Our goal is to create a view for better understanding and easier access to the dataset so that others can reproduce our findings.
+In the table below, 12 different repositories are examined, which represent the creation of the flaky tests in quantum programs. We find 46 flaky tests in total. Moreover, we list links of flaky tests in quantum projects as well as the root causes of flakiness, and we provide the categories for fixing these different flaky tests. Our goal is to create a view for better understanding and easier access to the dataset so that others can reproduce our findings. Our dataset is also stored at https://doi.org/10.5281/zenodo.7888639 on Zenodo. 
 ## quantum-flakiness
 |  Repository |   Bug-Report-Link  |  Pull-Request-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 |    :---     |    ---:            |  ---:              |         :---             |              :---                 |
