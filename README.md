@@ -5,16 +5,16 @@ In the table below, 12 different repositories are examined, which represent the 
 ## quantum-flakiness
 |  Repository |   Bug-Report-Link  |  Pull-Request-Link | Categories-of-Flaky-Test |      Categories-of-Fix            |
 |    :---     |    ---:            |  ---:              |         :---             |              :---                 |
-| Qiskit-Terra | [#6105](https://github.com/Qiskit/qiskit-terra/issues/6105) | [#6399](https://github.com/Qiskit/qiskit-terra/pull/6399) | Multi-Threading | Multiple threads write into one temp file, which causes the problem; to fix it, separate temp files for different threads |
-| Qiskit-Terra | [#8577](https://github.com/Qiskit/qiskit-terra/issues/8577) | [#8582](https://github.com/Qiskit/qiskit-terra/pull/8582) | Randomness | Remove time_taken assertion from amplitude estimator tests |
-| Qiskit-Terra | [#3434](https://github.com/Qiskit/qiskit-terra/issues/3434) | | Unknown | Closed because it cannot be reproduced |
-| Qiskit-Terra | [#3533](https://github.com/Qiskit/qiskit-terra/issues/3533) | [#3585](https://github.com/Qiskit/qiskit-terra/pull/3585) | Randomness | Remove randomness from two_qubit_decompose |
-| Qiskit-Terra | [#4126](https://github.com/Qiskit/qiskit-terra/issues/4126) | [#4193](https://github.com/Qiskit/qiskit-terra/pull/4193) | Randomness | Fix seed |
-| Qiskit-Terra | [#4606](https://github.com/Qiskit/qiskit-terra/issues/4606) | [#4656](https://github.com/Qiskit/qiskit-terra/pull/4656) | Software environment (Numpy version) | Remove specific version dependency |
-| Qiskit-Terra | | [#4835](https://github.com/Qiskit/qiskit-terra/pull/4835) | Randomness (Floating point precision) | Round number |
+| Qiskit-Terra | [#6105](https://github.com/Qiskit/qiskit-terra/issues/6105) | [#6399](https://github.com/Qiskit/qiskit-terra/pull/6399) | Multi-Threading | Others, separate temp files for different threads |
+| Qiskit-Terra | [#8577](https://github.com/Qiskit/qiskit-terra/issues/8577) | [#8582](https://github.com/Qiskit/qiskit-terra/pull/8582) | Floating point operations | Others, remove test cases |
+| Qiskit-Terra | [#3434](https://github.com/Qiskit/qiskit-terra/issues/3434) | | Unknown | Others, closed because it cannot be reproduced |
+| Qiskit-Terra | [#3533](https://github.com/Qiskit/qiskit-terra/issues/3533) | [#3585](https://github.com/Qiskit/qiskit-terra/pull/3585) | Randomness | Others, remove randomness from two_qubit_decompose |
+| Qiskit-Terra | [#4126](https://github.com/Qiskit/qiskit-terra/issues/4126) | [#4193](https://github.com/Qiskit/qiskit-terra/pull/4193) | Randomness | Fix random number seed |
+| Qiskit-Terra | [#4606](https://github.com/Qiskit/qiskit-terra/issues/4606) | [#4656](https://github.com/Qiskit/qiskit-terra/pull/4656) | Software environment | Alter software environment, remove specific version dependency |
+| Qiskit-Terra | | [#4835](https://github.com/Qiskit/qiskit-terra/pull/4835) | Floating point operations | Others, increase tolerance |
 | Qiskit-Terra | | [#6559](https://github.com/Qiskit/qiskit-terra/pull/6559) | Randomness | Fixed random number seed |
 | Qiskit-Terra | | [#8848](https://github.com/Qiskit/qiskit-terra/pull/8848) | Randomness | Fixed random number seed |
-| Qiskit-Terra |  | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659)  | Visualization | Others |
+| Qiskit-Terra |  | [#8659](https://github.com/Qiskit/qiskit-terra/pull/8659)  | Visualization | Others, remove random components |
 | Qiskit-Terra |  [#8819](https://github.com/Qiskit/qiskit-terra/issues/8819)  |   [#8820](https://github.com/Qiskit/qiskit-terra/pull/8820)        | Randomness    | Fix random number seed  |
 | Qiskit-Terra |  [#8806](https://github.com/Qiskit/qiskit-terra/issues/8806) | [#8808](https://github.com/Qiskit/qiskit-terra/pull/8808)<br> [#8815](https://github.com/Qiskit/qiskit-terra/pull/8815) | Randomness | Fixed random number seed |
 | Qiskit-Terra | [#8233](https://github.com/Qiskit/qiskit-terra/issues/8233) | [#8260](https://github.com/Qiskit/qiskit-terra/pull/8260)<br> [#8262](https://github.com/Qiskit/qiskit-terra/pull/8262) | Randomness | Fixed random number seed |
